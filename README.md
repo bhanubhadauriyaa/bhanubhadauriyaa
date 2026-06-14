@@ -56,10 +56,6 @@
 > Wrote complex SQL queries to extract insights from a large database and visualized results in Excel.  
 > **Tools:** MySQL, Advanced Excel, Pivot Tables
 
-> 💡 *Replace the above with your actual projects — even college assignments or personal datasets count!*
-
----
-
 ## 📜 Certifications
 
 - 🏅 Google Data Analytics Certificate — Coursera
