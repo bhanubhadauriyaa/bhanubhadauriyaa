@@ -62,22 +62,12 @@
 
 ## 📜 Certifications
 
-- 🏅 Google Data Analytics Certificate — Coursera *(add if completed)*
-- 🏅 Deloitte Data Analytics Virtual Internship — Forage *(add if completed)*
-- 🏅 Microsoft Power BI — *(add relevant certs)*
-- 🏅 SQL for Data Science — *(add relevant certs)*
+- 🏅 Google Data Analytics Certificate — Coursera
+- 🏅 Deloitte Data Analytics Virtual Internship — Forage
+- 🏅 Microsoft Power BI 
+- 🏅 SQL for Data Science 
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhanubhadauriyaa&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanubhadauriyaa&layout=compact&theme=default&hide_border=true" width="40%" />
-</p>
-
----
-
 ## 🎯 Currently
 
 - 🔍 Looking for **Data Analytics / Business Analytics internships**
@@ -90,8 +80,8 @@
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/bhanubhadauriyaa">LinkedIn</a> •
-  <a href="mailto:youremail@gmail.com">Email</a> •
+  <a href="[https://linkedin.com/in/bhanubhadauriyaa](https://www.linkedin.com/in/bhanu-pratap-singh-bhadauriya-b07955182/)">LinkedIn</a> •
+  <a href="mailto:bhanu.bhadauriyaa@gmail.com">Email</a> •
   <a href="https://github.com/bhanubhadauriyaa">GitHub</a>
 </p>
 
